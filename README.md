@@ -1,4 +1,4 @@
-Employee Management System 
+# Employee Management System 
 
 This project is an Employee Management System implemented in Java with a MySQL database, providing CRUD (Create, Read, Update, Delete) operations for managing employee records.
 
@@ -10,7 +10,7 @@ Before you begin, ensure you have met the following requirements:
 - MySQL Database Server installed
 - Git installed
 
-##Dependencies
+## Dependencies
 
 - Create MySQL Server
 - Create table "employee"
